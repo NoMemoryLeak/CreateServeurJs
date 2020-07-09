@@ -47,7 +47,7 @@ check the creation of your image
 ```
 ### Support
 
-We would love your feedback on this tool so don't hesitate to let us know what is wrong and how we could improve it, just file an [issue](https://github.com/noleakmemory/triggerapp/issues/new)
+We would love your feedback on this tool so don't hesitate to let us know what is wrong and how we could improve it, just file an [issue](https://github.com/NoMemoryLeak/create-serveur-js/issues/new)
 
 ### Code of Conduct
 
